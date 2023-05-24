@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "streetsidesoftware.code-spell-checker",
+        "golang.go"
+    ]
+}
